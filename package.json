@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Gbekeloluwa Olufotebi <olufotebigbeke@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "gogulpgo": "bin/cli.js"
+  }
 }
