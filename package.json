@@ -12,8 +12,10 @@
   "bin": {
     "gogulpgo": "bin/cli.js"
   },
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "gulp": "^4.0.0"
+  },
+  "devDependencies": {
+    
   }
 }
