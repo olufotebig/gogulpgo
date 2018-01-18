@@ -11,5 +11,9 @@
   "license": "MIT",
   "bin": {
     "gogulpgo": "bin/cli.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0"
   }
 }
